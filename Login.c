@@ -1,12 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-
-//=====all variables declaration====
-int t_cost;
-int bus_no;
-int num_of_seats;
-int seat_num[50];
-
 //login function for a new user 
 void login(void)
 {
