@@ -4,7 +4,7 @@ Bus Reservation System in C
 
 #Introduction
 
-The Bus Reservation System is a console-based application developed in C programming language. In the era of digital transformation, this system is a technological solution of purchasing bus tickets have given way to more advanced and user-friendly systems. This platform enables passengers to efficiently reserve seats, select routes, secure reservation, make payments for their desired bus journeys and also they can cancel their ticteks if the passengers want to do so. It includes features such as:
+The Bus Reservation System is a console-based application developed in C programming language. In the era of digital transformation, this system is a technological solution of purchasing bus tickets have given way to more advanced and user-friendly systems. This platform enables passengers to efficiently reserve seats, select routes, secure reservation, make payments for their desired bus journeys and also they can cancel their reservation if the passenger wants to do so. It includes features such as:
 
 * Creation of a proper backend user friendly interface for the system
 * Creation of user account
